@@ -2,8 +2,6 @@
 # PROJET 2 - Korea Aerospace Industries (047810.KS)
 # Estimation et backtesting de la VaR : application aux rendements de l’action 
 # Korea Aerospace Industries
-# COUSTILLAC Cêlestine
-
   
 # Importation des données
 rm(list = ls(all = TRUE))
@@ -973,4 +971,5 @@ resultats
   # soient autocorélées, on lui préfèrera donc le test de Christoffersen, comme notre 
   # p-value (0.88) est supérieur au seuil de 5%, nous acceptons H0. La VaR Historique 
   # estime donc bien le risque. 
+
 
