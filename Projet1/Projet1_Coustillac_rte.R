@@ -988,3 +988,4 @@ dates_rte[break_point] # 2020-12-30
 # le PGD est donc stationnaire avec une date de rupture autour du 30 décembre 2020. 
 
 
+
