@@ -1,6 +1,5 @@
 
 # PROJET 1 - Korea Aerospace Industries (047810.KS)
-# COUSTILLAC Cêlestine
 
 # Importation des données ------------------------------------------------------
 rm(list = ls(all = TRUE))
@@ -754,4 +753,5 @@ dates_rtt[break_point] # 2022-08-24
 
 # Cependant, comme le rendement n'a pas de tendance alors il ne peut pas être TS,
 # le PGD est donc stationnaire. 
+
 
