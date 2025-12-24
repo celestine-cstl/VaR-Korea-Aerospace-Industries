@@ -1,6 +1,5 @@
 
 # PROJET 1 - Korea Aerospace Industries (047810.KS)
-# COUSTILLAC Cêlestine
 
 # Importation des données ------------------------------------------------------
 rm(list = ls(all = TRUE))
@@ -986,6 +985,7 @@ dates_rte[break_point] # 2020-12-30
 
 # Cependant, comme le rendement n'a pas de tendance alors il ne peut pas être TS,
 # le PGD est donc stationnaire avec une date de rupture autour du 30 décembre 2020. 
+
 
 
 
