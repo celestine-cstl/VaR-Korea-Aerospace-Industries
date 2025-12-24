@@ -38,5 +38,3 @@
   - Non-paramétrique : **Historical Simulation**
   - Conditionnelle : **(ap)ARCH/GARCH** + innovations (ex. sSTD)
 - **Backtesting** : Kupiec, Christoffersen, analyse des violations (clusters, indépendance)
-## 📁 Structure conseillée du dépôt
-
