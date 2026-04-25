@@ -9,7 +9,7 @@
 ![rugarch](https://img.shields.io/badge/rugarch-444444?style=for-the-badge&logo=r&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-> Travail réalisé majoritairement sous **R** : récupération et préparation des rendements (Yahoo Finance), analyse statistique (moments, tests), visualisations, estimation de modèles de volatilité (**(ap)ARCH/GARCH**) et calcul de **VaR** (paramétrique / non-paramétrique), puis **backtesting** (Kupiec & Christoffersen) avec une procédure **rolling window**.
+> Travail réalisé sous **R** : récupération et préparation des rendements (Yahoo Finance), analyse statistique (moments, tests), visualisations, estimation de modèles de volatilité (**(ap)ARCH/GARCH**) et calcul de **VaR** (paramétrique / non-paramétrique), puis **backtesting** (Kupiec & Christoffersen) avec une procédure **rolling window**.
 
 <br>
 
@@ -30,11 +30,11 @@
 
 ## 🛠️ Compétences mobilisées
 
-- **R / Time series** : manipulation de séries temporelles (log-returns), cleaning, fenêtres glissantes, stabilité
+- **R / Time series** : manipulation de séries temporelles
 - **Stylized facts** : skewness/kurtosis, tests de normalité, ACF/PACF, ARCH effects, stationnarité
 - **VaR (1-jour, 95%)**
   - Paramétrique : **VaR Normale**
   - Paramétrique améliorée : **Cornish–Fisher**
   - Non-paramétrique : **Historical Simulation**
-  - Conditionnelle : **(ap)ARCH/GARCH** + innovations (ex. sSTD)
-- **Backtesting** : Kupiec, Christoffersen, analyse des violations (clusters, indépendance)
+  - Conditionnelle : **(ap)ARCH/GARCH**
+- **Backtesting** : Kupiec, Christoffersen
